@@ -1,0 +1,44 @@
+🔐 Privacy Policy
+Effective Date: 07/06/2025
+
+What Data We Collect
+
+Your Discord ID
+
+Your public username and avatar
+
+XP, coin balance, and interaction history (e.g. daily usage)
+
+Server ID where interactions occurred
+
+Why We Collect It
+
+To manage user profiles (levels, coins)
+
+To enable commands like /daily, /work, /profile, etc.
+
+For moderation and gameplay fairness
+
+Data Storage
+
+All data is stored securely in a MongoDB database.
+
+No personal data (such as email or password) is ever stored.
+
+Sharing of Data
+
+We do not sell or share your data with third parties.
+
+Admins of the bot may access stats for moderation or debugging.
+
+Data Removal
+
+You may request data removal by contacting the bot owner via Discord.
+
+Cookies and Tracking
+
+This bot does not use cookies or tracking outside Discord.
+
+Changes to Policy
+
+We may update this policy. Continued use means you agree to the changes.
